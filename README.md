@@ -7,35 +7,25 @@
 - [Ao Nang][ao-nang]
 - Beach
 
----
-
 ## Day 2: Aug 14 (Tue)
 
 - [Ko Phi Phi][ko-phi-phi]
 - Islands
-
----
 
 ## Day 3: Aug 15 (Wed)
 
 - [Ao Nang][ao-nang]
 - Various activities
 
----
-
 ## Day 4: Aug 16 (Thu)
 
 - [Had Yao][had-yao]
 - Chill
 
----
-
 ## Day 5: Aug 17 (Fri)
 
 - [Krabi Town][krabi-town]
 - Night market
-
----
 
 ## Day 6: Aug 18 (Sat)
 
