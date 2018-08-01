@@ -23,6 +23,11 @@
 ## Day 4: Aug 16 (Thu)
 
 - Railay beach
+- Phra Nang Beach & Pranang Cave
+- Hike Up to the Railay Beach Viewpoint and the Lagoon
+- Kayaking ??
+- Phra Nang Nai Cave
+- Remember to come back before the last boat
 - Chill
 
 ## Day 5: Aug 17 (Fri)
@@ -33,6 +38,8 @@
 ## Day 6: Aug 18 (Sat)
 
 - [Krabi Town][krabi-town]
+- Emerald Pool ? abit far though
+- Tiger Cave Temple
 - Night market
 
 ## Day 7: Aug 19 (Sun)
