@@ -5,29 +5,37 @@
 ## Day 1: Aug 13 (Mon)
 
 - [Ao Nang][ao-nang]
-- Beach
+- Check in Ao Nang
+- Explore Ao Nang
 
 ## Day 2: Aug 14 (Tue)
 
 - [Ko Phi Phi][ko-phi-phi]
+- Can take Phi Phi Island Tour?
 - Islands
 
 ## Day 3: Aug 15 (Wed)
 
 - [Ao Nang][ao-nang]
+- Four Island Tour? Island Hopping
 - Various activities
 
 ## Day 4: Aug 16 (Thu)
 
-- [Had Yao][had-yao]
+- Railay beach
 - Chill
 
 ## Day 5: Aug 17 (Fri)
 
+- [Had Yao][had-yao]
+- Chill
+
+## Day 6: Aug 18 (Sat)
+
 - [Krabi Town][krabi-town]
 - Night market
 
-## Day 6: Aug 18 (Sat)
+## Day 7: Aug 19 (Sun)
 
 - Back to Malaysia
 
