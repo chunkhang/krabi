@@ -66,7 +66,7 @@
 ### Destinations
 - [Krabi Town][krabi-town]
 ### Accommodation
-- ADD HERE
+- [Tambon Pak Nam][tambon-pak-nam]
 ### Activities
 - Emerald Pool ? abit far though
 - Tiger Cave Temple
@@ -90,3 +90,4 @@
 [krabi-town]: https://wikitravel.org/en/Krabi_Town
 [malaysia]: https://www.urbandictionary.com/define.php?term=Malaysia
 [krabi-beach]: https://wallpapershome.com/images/pages/pic_h/3410.jpg
+[tambon-pak-nam]: https://www.airbnb.com/rooms/21391995
