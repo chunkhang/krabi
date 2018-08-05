@@ -63,8 +63,6 @@
 ## Day 7: Aug 19 (Sun)
 ### Destinations
 - [Malaysia][malaysia]
-### Accommodation
-- ADD HERE
 ### Activities
 - Back to life
 
