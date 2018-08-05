@@ -57,7 +57,7 @@
 ### Destinations
 - [Had Yao][had-yao]
 ### Accommodation
-- ADD HERE
+- [Purin Resort][purin]
 ### Activities
 - Chill
 
@@ -91,3 +91,4 @@
 [malaysia]: https://www.urbandictionary.com/define.php?term=Malaysia
 [krabi-beach]: https://wallpapershome.com/images/pages/pic_h/3410.jpg
 [tambon-pak-nam]: https://www.airbnb.com/rooms/21391995
+[purin]: https://www.tripadvisor.com.my/Hotel_Review-g1800625-d12958533-Reviews-Purin_Resort_Restaurant-Nuea_Khlong_Krabi_Province.html
