@@ -13,7 +13,7 @@
 ### Destinations
 - [Ao Nang][ao-nang]
 ### Accommodation
-- ADD HERE
+- [Kokotel Krabi Ao Nang][kokotel-ao-nang] 
 ### Activities
 - Check in
 - Explore
@@ -23,7 +23,7 @@
 ### Destinations
 - [Ko Phi Phi][ko-phi-phi]
 ### Accommodation
-- ADD HERE
+- [Kokotel Krabi Ao Nang][kokotel-ao-nang]
 ### Activities
 - Can take Phi Phi Island Tour?
 - Islands
@@ -33,7 +33,7 @@
 ### Destinations
 - [Ao Nang][ao-nang]
 ### Accommodation
-- ADD HERE
+- [Kokotel Krabi Ao Nang][kokotel-ao-nang]
 ### Activities
 - Four Island Tour? Island Hopping
 - Various activities
@@ -44,7 +44,7 @@
 - [Railay][railay]
 - [Pranang Cave Beach][railay]
 ### Accommodation
-- ADD HERE
+- [Kokotel Krabi Ao Nang][kokotel-ao-nang]
 ### Activities
 - Hike Up to the Railay Beach Viewpoint and the Lagoon
 - Kayaking ??
@@ -90,5 +90,6 @@
 [krabi-town]: https://wikitravel.org/en/Krabi_Town
 [malaysia]: https://www.urbandictionary.com/define.php?term=Malaysia
 [krabi-beach]: https://wallpapershome.com/images/pages/pic_h/3410.jpg
+[kokotel-ao-nang]: https://www.tripadvisor.com.my/Hotel_Review-g1507054-d12506193-Reviews-Kokotel_Krabi_Ao_Nang-Ao_Nang_Krabi_Town_Krabi_Province.html
 [tambon-pak-nam]: https://www.airbnb.com/rooms/21391995
 [purin]: https://www.tripadvisor.com.my/Hotel_Review-g1800625-d12958533-Reviews-Purin_Resort_Restaurant-Nuea_Khlong_Krabi_Province.html
